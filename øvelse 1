@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> OVERSKRIFT </title>
+	
+	</head>
+    <body>
+      <img src="foto1">
+       <b>This text is bold</b></p>
+       <i>This text is italic</i></p>
+       This is<sub> subscript</sub> and <sup>superscript</sup></p>
+
+
+
+    </body>
+
+
+</html>
